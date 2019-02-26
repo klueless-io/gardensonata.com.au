@@ -1,4 +1,4 @@
-baseurl = "gardensonata.com"
+baseurl = "https://gardensonata.com"
 languageCode = "en-au"
 title = "Garden Sonata"
 theme = "hugo-creative-theme"
@@ -44,15 +44,15 @@ paginate = 12
 			services  			= "Services"
 			portfolio 			= ""
 			contact   			= "Contact"
-			blog				= "Blog"
+			blog				= "News"
 
 
 	# Hero section
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		xx_slogan     = "Pawsitively the best."
-		subtitle   = "If it not for sits, why is it made of warm?"
-		buttonText = "Find out more"
+		slogan     = ""
+		subtitle   = ""
+		buttonText = ""
 
 
 	# About section
