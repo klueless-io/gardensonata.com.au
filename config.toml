@@ -2,7 +2,7 @@ baseurl = "https://gardensonata.com"
 languageCode = "en-au"
 title = "Garden Sonata"
 theme = "hugo-creative-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-111712204-4"
 paginate = 12
 
 [taxonomies]
