@@ -1,4 +1,4 @@
-baseurl = "https://gardensonata.com"
+baseurl = "https://gardensonata.com.au"
 languageCode = "en-au"
 title = "Garden Sonata"
 theme = "hugo-creative-theme"
@@ -26,7 +26,7 @@ paginate = 12
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Garden Sonata"
-	description = "Keeping your furry friends entertained and Active while preserving your beloved furniture from their sharp claws, Active Feline Solutions for scratch problems"
+	description = "We Understand What Your Plants Need Because We Are Gardeners Too, Ensure Your Plants Are Happy And Healthy With The Right Care And Equipment."
 	copyright = "Copyright 2007-{year} Example LLC. All rights reserved."
 
 	# The path must be relative to the static folder
@@ -36,7 +36,7 @@ paginate = 12
 	# Navigation
 	[params.navigation]
 		brand = "Garden Sonata"
-		brand_logo = "img/logo_40h.png"
+		brand_logo = "img/logo-40h.png"
 
 		[params.navigation.links]
 			about     			= "About"
